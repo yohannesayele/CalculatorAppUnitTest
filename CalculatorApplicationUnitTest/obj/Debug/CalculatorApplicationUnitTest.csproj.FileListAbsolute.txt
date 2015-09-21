@@ -1,0 +1,8 @@
+c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\CalculatorApplicationUnitTest\bin\Debug\CalculatorApplicationUnitTest.exe.config
+c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\CalculatorApplicationUnitTest\bin\Debug\CalculatorApplicationUnitTest.exe
+c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\CalculatorApplicationUnitTest\bin\Debug\CalculatorApplicationUnitTest.pdb
+c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\CalculatorApplicationUnitTest\bin\Debug\MyCalculator.dll
+c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\CalculatorApplicationUnitTest\bin\Debug\MyCalculator.pdb
+c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\CalculatorApplicationUnitTest\obj\Debug\CalculatorApplicationUnitTest.csprojResolveAssemblyReference.cache
+c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\CalculatorApplicationUnitTest\obj\Debug\CalculatorApplicationUnitTest.exe
+c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\CalculatorApplicationUnitTest\obj\Debug\CalculatorApplicationUnitTest.pdb
