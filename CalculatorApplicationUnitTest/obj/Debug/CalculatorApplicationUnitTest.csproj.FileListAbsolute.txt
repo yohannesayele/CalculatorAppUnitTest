@@ -6,3 +6,11 @@ c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUni
 c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\CalculatorApplicationUnitTest\obj\Debug\CalculatorApplicationUnitTest.csprojResolveAssemblyReference.cache
 c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\CalculatorApplicationUnitTest\obj\Debug\CalculatorApplicationUnitTest.exe
 c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\CalculatorApplicationUnitTest\obj\Debug\CalculatorApplicationUnitTest.pdb
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\CalculatorApplicationUnitTest\obj\Debug\CalculatorApplicationUnitTest.exe
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\CalculatorApplicationUnitTest\obj\Debug\CalculatorApplicationUnitTest.pdb
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\CalculatorApplicationUnitTest\bin\Debug\CalculatorApplicationUnitTest.exe.config
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\CalculatorApplicationUnitTest\bin\Debug\CalculatorApplicationUnitTest.exe
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\CalculatorApplicationUnitTest\bin\Debug\CalculatorApplicationUnitTest.pdb
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\CalculatorApplicationUnitTest\bin\Debug\MyCalculator.dll
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\CalculatorApplicationUnitTest\bin\Debug\MyCalculator.pdb
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\CalculatorApplicationUnitTest\obj\Debug\CalculatorApplicationUnitTest.csprojResolveAssemblyReference.cache

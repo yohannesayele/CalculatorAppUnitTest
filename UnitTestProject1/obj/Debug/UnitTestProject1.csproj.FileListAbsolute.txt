@@ -7,3 +7,12 @@ c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUni
 c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
 c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 c:\users\yohannes\documents\visual studio 2015\Projects\CalculatorApplicationUnitTest\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\UnitTestProject1\bin\Debug\MyCalculator.dll
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\UnitTestProject1\bin\Debug\MyCalculator.pdb
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Yohannes\Source\Repos\CalculatorAppUnitTest\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
